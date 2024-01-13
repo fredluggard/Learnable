@@ -10,9 +10,9 @@ Git is a version control system that allows developers to track changes in their
 
 # List 3 other github alternatives:
 
--GitLab
--GitBucket
--BitBucket
+- GitLab
+- GitBucket
+- BitBucket
 
 # Explain the difference between git fetch and git pull:
 
